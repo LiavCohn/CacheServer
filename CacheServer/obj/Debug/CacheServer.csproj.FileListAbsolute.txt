@@ -1,0 +1,7 @@
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\bin\Debug\CacheServer.exe.config
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\bin\Debug\CacheServer.exe
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\bin\Debug\CacheServer.pdb
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\obj\Debug\CacheServer.csprojAssemblyReference.cache
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\obj\Debug\CacheServer.csproj.CoreCompileInputs.cache
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\obj\Debug\CacheServer.exe
+C:\Users\liavc\OneDrive - Ruppin Academic Center\c#\CacheServer\obj\Debug\CacheServer.pdb
